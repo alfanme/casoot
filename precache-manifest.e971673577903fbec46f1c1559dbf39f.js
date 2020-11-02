@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "56542ec6c352e1f0046636311cdb76b0",
+    "revision": "0fd3f25a35b3f00401621d46164b332f",
     "url": "/casoot/index.html"
   },
   {
-    "revision": "6f471a2e3915dc434a61",
+    "revision": "2b092daf122980722a71",
     "url": "/casoot/static/css/main.d35e21d4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/casoot/static/js/2.7a976137.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6f471a2e3915dc434a61",
-    "url": "/casoot/static/js/main.ecf605e1.chunk.js"
+    "revision": "2b092daf122980722a71",
+    "url": "/casoot/static/js/main.d568e138.chunk.js"
   },
   {
     "revision": "662c8be6c0d68570e5ab",
