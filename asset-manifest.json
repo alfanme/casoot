@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/casoot/static/css/main.d35e21d4.chunk.css",
+    "main.js": "/casoot/static/js/main.0d3037c8.chunk.js",
+    "main.js.map": "/casoot/static/js/main.0d3037c8.chunk.js.map",
+    "runtime-main.js": "/casoot/static/js/runtime-main.a3310b02.js",
+    "runtime-main.js.map": "/casoot/static/js/runtime-main.a3310b02.js.map",
+    "static/js/2.7a976137.chunk.js": "/casoot/static/js/2.7a976137.chunk.js",
+    "static/js/2.7a976137.chunk.js.map": "/casoot/static/js/2.7a976137.chunk.js.map",
+    "index.html": "/casoot/index.html",
+    "precache-manifest.23fdf7f2df310b46d37d9a3c645e2063.js": "/casoot/precache-manifest.23fdf7f2df310b46d37d9a3c645e2063.js",
+    "service-worker.js": "/casoot/service-worker.js",
+    "static/css/main.d35e21d4.chunk.css.map": "/casoot/static/css/main.d35e21d4.chunk.css.map",
+    "static/js/2.7a976137.chunk.js.LICENSE.txt": "/casoot/static/js/2.7a976137.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/casoot/static/media/HarieLow.7b886193.jpg",
+    "static/media/Logo.svg": "/casoot/static/media/Logo.d20d249c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3310b02.js",
+    "static/js/2.7a976137.chunk.js",
+    "static/css/main.d35e21d4.chunk.css",
+    "static/js/main.0d3037c8.chunk.js"
+  ]
+}
