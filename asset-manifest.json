@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/casoot/static/css/main.d35e21d4.chunk.css",
-    "main.js": "/casoot/static/js/main.d568e138.chunk.js",
-    "main.js.map": "/casoot/static/js/main.d568e138.chunk.js.map",
+    "main.js": "/casoot/static/js/main.dacd74da.chunk.js",
+    "main.js.map": "/casoot/static/js/main.dacd74da.chunk.js.map",
     "runtime-main.js": "/casoot/static/js/runtime-main.a3310b02.js",
     "runtime-main.js.map": "/casoot/static/js/runtime-main.a3310b02.js.map",
     "static/js/2.7a976137.chunk.js": "/casoot/static/js/2.7a976137.chunk.js",
     "static/js/2.7a976137.chunk.js.map": "/casoot/static/js/2.7a976137.chunk.js.map",
     "index.html": "/casoot/index.html",
-    "precache-manifest.e971673577903fbec46f1c1559dbf39f.js": "/casoot/precache-manifest.e971673577903fbec46f1c1559dbf39f.js",
+    "precache-manifest.7a5c0ac73be1837d67a3758d3d6ead94.js": "/casoot/precache-manifest.7a5c0ac73be1837d67a3758d3d6ead94.js",
     "service-worker.js": "/casoot/service-worker.js",
     "static/css/main.d35e21d4.chunk.css.map": "/casoot/static/css/main.d35e21d4.chunk.css.map",
     "static/js/2.7a976137.chunk.js.LICENSE.txt": "/casoot/static/js/2.7a976137.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.a3310b02.js",
     "static/js/2.7a976137.chunk.js",
     "static/css/main.d35e21d4.chunk.css",
-    "static/js/main.d568e138.chunk.js"
+    "static/js/main.dacd74da.chunk.js"
   ]
 }
